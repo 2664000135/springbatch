@@ -1,0 +1,7 @@
+com\test\springboot\mapper\UserMapper.class
+com\test\springboot\Service\UserService.class
+com\test\springboot\controller\UserController.class
+com\test\springboot\domain\User.class
+com\test\springboot\controller\LoginController.class
+com\test\springboot\Application.class
+com\test\springboot\vo\Page.class
